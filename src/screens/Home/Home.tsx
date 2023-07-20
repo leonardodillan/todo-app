@@ -30,7 +30,7 @@ export default function Home() {
                     setTasks(prevState => prevState.filter(task => task !== name));
                     setTaskCount((prevCount) => prevCount - 1);
                     if (tasks.includes(name)) {
-                        setDoneCount((prevCount) => prevCount - 1); // Decrease doneCount if the task was marked as done
+                        setDoneCount((prevCount) => prevCount - 1);
                     }
                 }
                 
