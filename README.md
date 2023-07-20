@@ -1,6 +1,4 @@
-Descrição do Repositório
-
-Este repositório contém o código-fonte de um emocionante desafio proposto pela Rocketseat no curso Ignite de React Native, no qual desenvolvemos uma aplicação To-Do List usando a poderosa biblioteca React Native. O objetivo do desafio era criar um aplicativo de lista de tarefas, onde os usuários podem adicionar, remover e marcar tarefas como concluídas.
+Este repositório contém o código de um emocionante desafio proposto pela Rocketseat no curso Ignite de React Native, no qual desenvolvi uma aplicação To-Do List usando a poderosa biblioteca React Native. O objetivo do desafio era criar um aplicativo de lista de tarefas, onde os usuários podem adicionar, remover e marcar tarefas como concluídas.
 
 Características Principais:
 
